@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "scoala-backend", "scoala-backend\scoala-backend.csproj", "{DC788F7C-FE38-4390-A6C2-A44839399C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC788F7C-FE38-4390-A6C2-A44839399C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC788F7C-FE38-4390-A6C2-A44839399C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC788F7C-FE38-4390-A6C2-A44839399C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC788F7C-FE38-4390-A6C2-A44839399C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410C22EA-42ED-473D-9DC7-9EC31FED3F89}
+	EndGlobalSection
+EndGlobal
